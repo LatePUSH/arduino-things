@@ -1,1 +1,3 @@
 # arduino-things
+
+# juste things about arduino learning......
