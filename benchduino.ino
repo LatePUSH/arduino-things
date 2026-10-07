@@ -28,5 +28,4 @@ void setup() {
 }
 
 void loop() {
-  // On ne fait le test qu'une seule fois au démarrage
 }
